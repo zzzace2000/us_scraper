@@ -7,8 +7,7 @@ I also implemented a function to automatically book the slot, but it's not well 
 Hope it helps your appointments!
 
 If you succeed, you should find the following screenshots:
-<img src="https://github.com/zzzace2000/us_scraper/blob/main/screenshot.png?raw=true" width=600px>
-
+<img src="https://github.com/zzzace2000/us_scraper/blob/master/screenshot.png" width=600px>
 
 ## How to use
 
